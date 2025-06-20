@@ -1,0 +1,5 @@
+Generation: 50
+ID: 17229
+maxDepth: 6
+Pick: Min Stack_FreeSpace Divide Min Stack_ContainsReady Divide Block_Time Stack_FreeSpace Min Multiply Add Stack_FreeSpace Add Block_Time Stack_FreeSpace Multiply Stack_FreeSpace Stack_Count Divide Min Multiply Block_Ready Stack_Id Subtract Stack_Height Stack_Height Max Stack_ContainsReady Stack_Height
+Move: Min Max Add Time Stack_Count Min Multiply Block_Time Block_Time Stack_ContainsReady Subtract Divide Subtract Stack_ContainsReady Block_Due Min Subtract Stack_FreeSpace Stack_ContainsReady Stack_ContainsReady Max Max Time Divide Block_Time Block_Due Divide Block_Time Stack_FreeSpace

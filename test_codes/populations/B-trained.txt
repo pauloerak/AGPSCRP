@@ -1,0 +1,5 @@
+Generation: 50
+ID: 17332
+maxDepth: 6
+Pick: Max Max Stack_Height Multiply Subtract Block_Ready Add Block_Ready Stack_FreeSpace Multiply Multiply Min Stack_FreeSpace Block_Ready Multiply Stack_Height Stack_FreeSpace Block_Ready Add Divide Add Stack_Id Stack_Height Stack_FreeSpace Multiply Max Stack_FreeSpace Subtract Stack_ContainsReady Stack_Height Subtract Max Stack_FreeSpace Subtract Stack_Count Stack_Height Subtract Max Stack_ContainsReady Stack_ContainsReady Max Block_Ready Stack_Height
+Move: Max Stack_FreeSpace Multiply Subtract Divide Stack_FreeSpace Stack_ContainsReady Stack_ContainsReady Multiply Block_Time Block_Time

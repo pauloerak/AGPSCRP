@@ -1,0 +1,5 @@
+Generation: 28
+ID: 6753
+maxDepth: 6
+Pick: Max Divide Stack_Id Min Add Stack_ContainsReady Stack_Id Subtract Time Max Stack_FreeSpace Block_Due Stack_FreeSpace
+Move: Subtract Min Stack_FreeSpace Min Block_Time Multiply Stack_FreeSpace Stack_FreeSpace Divide Stack_Id Min Divide Add Stack_Id Stack_FreeSpace Divide Stack_ContainsReady Stack_Height Stack_FreeSpace
