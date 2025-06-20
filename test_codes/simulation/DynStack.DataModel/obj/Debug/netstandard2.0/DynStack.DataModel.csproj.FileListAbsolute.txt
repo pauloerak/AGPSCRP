@@ -1,0 +1,44 @@
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.deps.json
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.AssemblyReference.cache
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfoInputs.cache
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfo.cs
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.CoreCompileInputs.cache
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.sourcelink.json
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.deps.json
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.AssemblyReference.cache
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfoInputs.cache
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfo.cs
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.CoreCompileInputs.cache
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.sourcelink.json
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.deps.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.AssemblyReference.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfoInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfo.cs
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.CoreCompileInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.sourcelink.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.deps.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.AssemblyReference.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfoInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.AssemblyInfo.cs
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.csproj.CoreCompileInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.sourcelink.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.DataModel\obj\Debug\netstandard2.0\DynStack.DataModel.pdb

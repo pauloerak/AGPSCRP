@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.simulationrunner\\hs\\simulationhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|solutionrelative:dynstack.simulationrunner\\hs\\simulationhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.simulationrunner\\common\\simulationhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|solutionrelative:dynstack.simulationrunner\\common\\simulationhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.simulationrunner\\hs\\synchronoussimrunnerpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|solutionrelative:dynstack.simulationrunner\\hs\\synchronoussimrunnerpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.simulationrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|solutionrelative:dynstack.simulationrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D414D19-9B1D-4E2F-83FA-8320D5DAB178}|DynStack.Simulation\\DynStack.Simulation.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.simulation\\hs\\hotstoragesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D414D19-9B1D-4E2F-83FA-8320D5DAB178}|DynStack.Simulation\\DynStack.Simulation.csproj|solutionrelative:dynstack.simulation\\hs\\hotstoragesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AFACE1-0119-4AAF-9EC5-F851527BAE8A}|DynStack.DataModel\\DynStack.DataModel.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.datamodel\\hs\\hsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AFACE1-0119-4AAF-9EC5-F851527BAE8A}|DynStack.DataModel\\DynStack.DataModel.csproj|solutionrelative:dynstack.datamodel\\hs\\hsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AFACE1-0119-4AAF-9EC5-F851527BAE8A}|DynStack.DataModel\\DynStack.DataModel.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.datamodel\\messages\\simcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AFACE1-0119-4AAF-9EC5-F851527BAE8A}|DynStack.DataModel\\DynStack.DataModel.csproj|solutionrelative:dynstack.datamodel\\messages\\simcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AFACE1-0119-4AAF-9EC5-F851527BAE8A}|DynStack.DataModel\\DynStack.DataModel.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.datamodel\\hs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AFACE1-0119-4AAF-9EC5-F851527BAE8A}|DynStack.DataModel\\DynStack.DataModel.csproj|solutionrelative:dynstack.datamodel\\hs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\simulation_experimental\\dynstack.simulationrunner\\rm\\simulationhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF3F288-276E-4597-85E8-1DC77C79019C}|DynStack.SimulationRunner\\DynStack.SimulationRunner.csproj|solutionrelative:dynstack.simulationrunner\\rm\\simulationhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationHost.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\Common\\SimulationHost.cs",
+              "RelativeDocumentMoniker": "DynStack.SimulationRunner\\Common\\SimulationHost.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\Common\\SimulationHost.cs",
+              "RelativeToolTip": "DynStack.SimulationRunner\\Common\\SimulationHost.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:28:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotstorageSimulation.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.Simulation\\HS\\HotstorageSimulation.cs",
+              "RelativeDocumentMoniker": "DynStack.Simulation\\HS\\HotstorageSimulation.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.Simulation\\HS\\HotstorageSimulation.cs",
+              "RelativeToolTip": "DynStack.Simulation\\HS\\HotstorageSimulation.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwF8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:03:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimControl.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.DataModel\\Messages\\SimControl.cs",
+              "RelativeDocumentMoniker": "DynStack.DataModel\\Messages\\SimControl.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.DataModel\\Messages\\SimControl.cs",
+              "RelativeToolTip": "DynStack.DataModel\\Messages\\SimControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:51:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.DataModel\\HS\\Settings.cs",
+              "RelativeDocumentMoniker": "DynStack.DataModel\\HS\\Settings.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.DataModel\\HS\\Settings.cs",
+              "RelativeToolTip": "DynStack.DataModel\\HS\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:51:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HSDataModel.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.DataModel\\HS\\HSDataModel.cs",
+              "RelativeDocumentMoniker": "DynStack.DataModel\\HS\\HSDataModel.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.DataModel\\HS\\HSDataModel.cs",
+              "RelativeToolTip": "DynStack.DataModel\\HS\\HSDataModel.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:51:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimulationHost.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\RM\\SimulationHost.cs",
+              "RelativeDocumentMoniker": "DynStack.SimulationRunner\\RM\\SimulationHost.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\RM\\SimulationHost.cs",
+              "RelativeToolTip": "DynStack.SimulationRunner\\RM\\SimulationHost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:50:38.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationHost.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\HS\\SimulationHost.cs",
+              "RelativeDocumentMoniker": "DynStack.SimulationRunner\\HS\\SimulationHost.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\HS\\SimulationHost.cs",
+              "RelativeToolTip": "DynStack.SimulationRunner\\HS\\SimulationHost.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAA/wFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:54:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SynchronousSimRunnerPolicy.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\HS\\SynchronousSimRunnerPolicy.cs",
+              "RelativeDocumentMoniker": "DynStack.SimulationRunner\\HS\\SynchronousSimRunnerPolicy.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\HS\\SynchronousSimRunnerPolicy.cs",
+              "RelativeToolTip": "DynStack.SimulationRunner\\HS\\SynchronousSimRunnerPolicy.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:54:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\Program.cs",
+              "RelativeDocumentMoniker": "DynStack.SimulationRunner\\Program.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\simulation_experimental\\DynStack.SimulationRunner\\Program.cs",
+              "RelativeToolTip": "DynStack.SimulationRunner\\Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAqwDoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:27:04.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

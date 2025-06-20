@@ -1,0 +1,56 @@
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.deps.json
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.AssemblyReference.cache
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfoInputs.cache
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfo.cs
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.CoreCompileInputs.cache
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.sourcelink.json
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.E2879C09.Up2Date
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10. semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.deps.json
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.AssemblyReference.cache
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfoInputs.cache
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfo.cs
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.CoreCompileInputs.cache
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.sourcelink.json
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.E2879C09.Up2Date
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10_semestar\AGPSCRP\simulator\dynstack-main\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.deps.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.AssemblyReference.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfoInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfo.cs
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.CoreCompileInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.sourcelink.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.E2879C09.Up2Date
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.deps.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.Simulation.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\bin\Debug\netstandard2.0\DynStack.DataModel.pdb
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.AssemblyReference.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfoInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.AssemblyInfo.cs
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.csproj.CoreCompileInputs.cache
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.sourcelink.json
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.E2879C09.Up2Date
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.dll
+F:\FER\10_semestar\AGPSCRP\test_codes\simulation_experimental\DynStack.Simulation\obj\Debug\netstandard2.0\DynStack.Simulation.pdb

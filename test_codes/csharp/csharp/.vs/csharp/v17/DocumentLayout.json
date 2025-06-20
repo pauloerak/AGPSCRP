@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\factories\\opfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\factories\\opfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\factories\\featurefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\factories\\featurefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\factories\\constfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\factories\\constfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\synchsplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\synchsplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\solution_specimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\solution_specimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\simstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\simstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\rfstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\rfstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\geneticop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\geneticop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneticOP.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\GeneticOP.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\GeneticOP.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\GeneticOP.cs",
+              "RelativeToolTip": "HS-Sync\\GeneticOP.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAAAYwHYBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:21:51.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyncHSPlanner.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SyncHSPlanner.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\SyncHSPlanner.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SyncHSPlanner.cs",
+              "RelativeToolTip": "HS-Sync\\SyncHSPlanner.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:27:42.441Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Generation.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Generation.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Generation.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Generation.cs",
+              "RelativeToolTip": "HS-Sync\\Generation.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAkwBsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:25:39.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpFactory.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\OpFactory.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Factories\\OpFactory.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\OpFactory.cs",
+              "RelativeToolTip": "HS-Sync\\Factories\\OpFactory.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:18:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstFactory.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\ConstFactory.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Factories\\ConstFactory.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\ConstFactory.cs",
+              "RelativeToolTip": "HS-Sync\\Factories\\ConstFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:18:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwFoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:39:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimStarter.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SimStarter.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\SimStarter.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SimStarter.cs",
+              "RelativeToolTip": "HS-Sync\\SimStarter.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:58:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RFState.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\RFState.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\RFState.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\RFState.cs",
+              "RelativeToolTip": "HS-Sync\\RFState.cs",
+              "ViewState": "AQIAAEkBAAAAAAAAAAAYwNMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:35:03.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nodes.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Nodes.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Nodes.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Nodes.cs",
+              "RelativeToolTip": "HS-Sync\\Nodes.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAswHwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:34:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeatureFactory.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\FeatureFactory.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Factories\\FeatureFactory.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\FeatureFactory.cs",
+              "RelativeToolTip": "HS-Sync\\Factories\\FeatureFactory.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwBUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:33:57.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solution_specimen.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Solution_specimen.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Solution_specimen.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Solution_specimen.cs",
+              "RelativeToolTip": "HS-Sync\\Solution_specimen.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAADwvxgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:25:14.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Tree.cs",
+              "RelativeDocumentMoniker": "HS-Sync\\Tree.cs",
+              "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Tree.cs",
+              "RelativeToolTip": "HS-Sync\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:31:16.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
