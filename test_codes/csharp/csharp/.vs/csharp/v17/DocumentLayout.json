@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\geneticop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\geneticop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\rfstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\rfstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\simstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\simstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\solution_specimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\solution_specimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\synchsplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\synchsplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\factories\\opfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\factories\\opfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,40 +47,8 @@
       "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\factories\\constfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\synchsplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\synchsplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\solution_specimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\solution_specimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\simstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\simstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\rfstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\rfstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\geneticop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\geneticop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|f:\\fer\\10_semestar\\agpscrp\\test_codes\\csharp\\csharp\\hs-sync\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E129F-AFD8-4244-9EEC-58C00E39315D}|csharp.csproj|solutionrelative:hs-sync\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,17 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "GeneticOP.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\GeneticOP.cs",
               "RelativeDocumentMoniker": "HS-Sync\\GeneticOP.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\GeneticOP.cs",
               "RelativeToolTip": "HS-Sync\\GeneticOP.cs",
-              "ViewState": "AQIAACQBAAAAAAAAAAAYwHYBAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYBAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T12:21:51.92Z",
               "IsPinned": true,
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SyncHSPlanner.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SyncHSPlanner.cs",
               "RelativeDocumentMoniker": "HS-Sync\\SyncHSPlanner.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SyncHSPlanner.cs",
               "RelativeToolTip": "HS-Sync\\SyncHSPlanner.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:27:42.441Z",
               "IsPinned": true,
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Generation.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Generation.cs",
               "RelativeDocumentMoniker": "HS-Sync\\Generation.cs",
@@ -99,12 +99,11 @@
               "ViewState": "AQIAAPYAAAAAAAAAAAAkwBsBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:25:39.467Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "OpFactory.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\OpFactory.cs",
               "RelativeDocumentMoniker": "HS-Sync\\Factories\\OpFactory.cs",
@@ -117,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ConstFactory.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\ConstFactory.cs",
               "RelativeDocumentMoniker": "HS-Sync\\Factories\\ConstFactory.cs",
@@ -125,64 +124,63 @@
               "RelativeToolTip": "HS-Sync\\Factories\\ConstFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T11:18:31.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T11:18:31.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAmwFoAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T11:39:40.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SimStarter.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SimStarter.cs",
               "RelativeDocumentMoniker": "HS-Sync\\SimStarter.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\SimStarter.cs",
               "RelativeToolTip": "HS-Sync\\SimStarter.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAowHoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T18:58:49.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "RFState.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\RFState.cs",
               "RelativeDocumentMoniker": "HS-Sync\\RFState.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\RFState.cs",
               "RelativeToolTip": "HS-Sync\\RFState.cs",
-              "ViewState": "AQIAAEkBAAAAAAAAAAAYwNMBAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T14:35:03.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Nodes.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Nodes.cs",
               "RelativeDocumentMoniker": "HS-Sync\\Nodes.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Nodes.cs",
               "RelativeToolTip": "HS-Sync\\Nodes.cs",
-              "ViewState": "AQIAAJsAAAAAAAAAAAAswHwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T14:34:42.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "FeatureFactory.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Factories\\FeatureFactory.cs",
               "RelativeDocumentMoniker": "HS-Sync\\Factories\\FeatureFactory.cs",
@@ -190,8 +188,7 @@
               "RelativeToolTip": "HS-Sync\\Factories\\FeatureFactory.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAYwBUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:33:57.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T14:33:57.286Z"
             },
             {
               "$type": "Document",
@@ -201,14 +198,14 @@
               "RelativeDocumentMoniker": "HS-Sync\\Solution_specimen.cs",
               "ToolTip": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Solution_specimen.cs",
               "RelativeToolTip": "HS-Sync\\Solution_specimen.cs",
-              "ViewState": "AQIAAIwAAAAAAAAAAADwvxgAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T09:25:14.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Tree.cs",
               "DocumentMoniker": "F:\\FER\\10_semestar\\AGPSCRP\\test_codes\\csharp\\csharp\\HS-Sync\\Tree.cs",
               "RelativeDocumentMoniker": "HS-Sync\\Tree.cs",
@@ -216,7 +213,8 @@
               "RelativeToolTip": "HS-Sync\\Tree.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T13:31:16.705Z"
+              "WhenOpened": "2025-05-28T13:31:16.705Z",
+              "EditorCaption": ""
             }
           ]
         }
